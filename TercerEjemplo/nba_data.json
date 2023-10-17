@@ -1,0 +1,99 @@
+[
+    {
+        "Jugador": "Rusell Westbrook",
+        "Equipo": "OKC",
+        "GP": 81,
+        "PTS": 2558,
+        "REB": 868,
+        "AST": 841
+    },
+    {
+        "Jugador": "James Harden",
+        "Equipo": "HOU",
+        "GP": 81,
+        "PTS": 2356,
+        "REB": 662,
+        "AST": 906
+    },
+    {
+        "Jugador": "Isaiah Thomas",
+        "Equipo": "BOS",
+        "GP": 76,
+        "PTS": 2199,
+        "REB": 206,
+        "AST": 449
+    },
+    {
+        "Jugador": "Anthony Davis",
+        "Equipo": "NOP",
+        "GP": 75,
+        "PTS": 2101,
+        "REB": 896,
+        "AST": 158
+    },
+    {
+        "Jugador": "Karl-Anthony Towns",
+        "Equipo": "MIN",
+        "GP": 82,
+        "PTS": 2061,
+        "REB": 1004,
+        "AST": 220
+    },
+    {
+        "Jugador": "Damian Lillard",
+        "Equipo": "POR",
+        "GP": 75,
+        "PTS": 2024,
+        "REB": 367,
+        "AST": 438
+    },
+    {
+        "Jugador": "DeMar DeRozan",
+        "Equipo": "TOR",
+        "GP": 74,
+        "PTS": 2020,
+        "REB": 387,
+        "AST": 290
+    },
+    {
+        "Jugador": "Stephen Curry",
+        "Equipo": "GSW",
+        "GP": 79,
+        "PTS": 1999,
+        "REB": 354,
+        "AST": 523
+    },
+    {
+        "Jugador": "LeBron James",
+        "Equipo": "CLE",
+        "GP": 74,
+        "PTS": 1954,
+        "REB": 641,
+        "AST": 646
+    },
+    {
+        "Jugador": "DeMarcus Cousins",
+        "Equipo": "NOP",
+        "GP": 72,
+        "PTS": 1942,
+        "REB": 796,
+        "AST": 333
+    },
+    {
+        "Jugador": "Andrew Wiggins",
+        "Equipo": "MIN",
+        "GP": 82,
+        "PTS": 1933,
+        "REB": 329,
+        "AST": 190
+    },
+    {
+        "Jugador": "Kawhi Leonard",
+        "Equipo": "SAS",
+        "GP": 74,
+        "PTS": 1888,
+        "REB": 428,
+        "AST": 259
+    }
+
+]

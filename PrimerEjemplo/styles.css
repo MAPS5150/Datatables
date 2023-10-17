@@ -1,0 +1,22 @@
+.container {
+    background-color: #14253A;
+    border-color: #E55558;
+    border-style: ridge;
+}
+
+.table {
+    border-style: ridge;
+}
+
+#tablaResponsiva {
+    border-color: #EBBA59;
+    
+}
+
+#datos {
+    border-color: #EBBA59;  
+}
+
+.titulos {
+    background-image: url("color40B3BC.png");
+}

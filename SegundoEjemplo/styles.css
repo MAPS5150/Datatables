@@ -1,0 +1,18 @@
+.container {
+    background-color: #14253A;
+    border-color: #E55558;
+    border-style: ridge;
+    color: #EBBA59;
+}
+
+.table {
+    border-color: #E55558;
+    border-style: ridge;
+    color: white;
+}
+
+#datos {
+    border-color: #E55558;
+    border-radius: 10%;
+    color: #40B3BC ;
+}

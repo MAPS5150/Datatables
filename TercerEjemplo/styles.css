@@ -1,0 +1,20 @@
+.container {
+    background-color: #40B3BC;
+    border-color: #E55558;
+    border-style: ridge;
+    color: #14253A;
+}
+
+.display {
+    border-style: groove;
+    border-color: #E55558;
+    /* border-radius: 5%; */
+    border-style:solid;
+    color: white;
+}
+
+#datos {
+    /* border-color: #E55558; */
+    color: #EBBA59 ;
+    background-image: url('colorE55558.png');
+}
